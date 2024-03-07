@@ -1,0 +1,16 @@
+.meet-client-section {
+      background-image: linear-gradient(to left, #F00, #FF8938),
+            url('./images/bg_cup.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+}
+
+.clients-btn {
+      background: linear-gradient(to left, #F00, #FF8938);
+      background-clip: text;
+      color: transparent;
+      padding: 14px 25px;
+      font-size: 20px;
+      font-weight: 700;
+}
